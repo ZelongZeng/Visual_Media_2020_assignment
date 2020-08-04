@@ -1,5 +1,7 @@
 The Assignment of Visual Medial 2020(UTokyo)
 ===========
+The file 'report.pdf' is my report.
+-----------
 
 ## Prerequisites
 
@@ -36,5 +38,5 @@ python evaluation.py
 `--test_path` the path of the testing data.
 `--batchsize` batch size.
 I tested it on Market1501 testest:
-![](https://github.com/layumi/Person_reID_baseline_pytorch/blob/master/show.png)
+![](https://github.com/ZelongZeng/Visual_Media_2020_assignment/blob/master/751596474035_.pic.jpg)
 
