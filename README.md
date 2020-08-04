@@ -23,7 +23,7 @@ python train.py --gpu_ids 0 --batchsize 32  --data_path your_data_path
 `--batchsize` batch size.
 
 I trained it on Market1501 trainset(on single P100 GPU/ 60 epoches):
-![](https://github.com/layumi/Person_reID_baseline_pytorch/blob/master/show.png)
+![](https://github.com/ZelongZeng/Visual_Media_2020_assignment/blob/master/741596464475_.pic.jpg)
 
 ### Test
 Test the model by
